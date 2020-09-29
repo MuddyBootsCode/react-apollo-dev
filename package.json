@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "(cd client && yarn start) & cd api && yarn dev"
+    "start:react": "cd client && yarn start",
+    "dev": "(cd api && yarn dev) & yarn start:react"
   },
   "devDependencies": {
     "husky": "^4.3.0",
