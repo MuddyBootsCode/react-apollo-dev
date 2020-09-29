@@ -1,4 +1,4 @@
-# apollo-server-template
-Apollo Server Template Repo with Neo4j
+# React-apollo-template
+Create React App with Apollo Client 3 
 
-This is a boilerplate repo for Apollo Server using apollo server express and set up to use neo4j-graphql-js.
+This is a boilerplate repo with Create React App and Apollo Client 3. 
